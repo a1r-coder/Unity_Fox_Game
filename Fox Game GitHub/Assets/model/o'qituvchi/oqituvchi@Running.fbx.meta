@@ -1,0 +1,280 @@
+fileFormatVersion: 2
+guid: de10047da3581a746b7f2d88b430cd77
+ModelImporter:
+  serializedVersion: 19301
+  internalIDToNameTable:
+  - first:
+      74: -203655887218126122
+    second: mixamo.com
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bodymat
+    second: {fileID: 2100000, guid: 8ffff12f0fd257944abdb045b599f77e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bottommat
+    second: {fileID: 2100000, guid: 84dccdecce77ad643bfe58aef104b1e9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Eyewearmat
+    second: {fileID: 2100000, guid: 9e0d1757bc4862e43bc958dd8ce91c8d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Hairmat
+    second: {fileID: 2100000, guid: 336b0b930c7fc6443abed8959385a38d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Shoesmat
+    second: {fileID: 2100000, guid: 31f52b8523c0b414ab9442da63b85d29, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Topmat
+    second: {fileID: 2100000, guid: dd4ea43511d88424684926c04999c16a, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: oqituvchi_Body_Diffuse
+    second: {fileID: 2800000, guid: 7b78ffd9f398c2b438ca77814cdaee98, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: oqituvchi_Body_Gloss
+    second: {fileID: 2800000, guid: 5349009e9fccb8d448a36ecfb78f756d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: oqituvchi_Body_Normal
+    second: {fileID: 2800000, guid: 02c1d5585a936954484819890d69816b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: oqituvchi_Body_Opacity
+    second: {fileID: 2800000, guid: 31fcaadf334372e468c6f51e7a3a3dbf, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: oqituvchi_Body_Specular
+    second: {fileID: 2800000, guid: 76f0c5f80b9ec5846a3ce9840e328832, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: oqituvchi_Bottom_Diffuse
+    second: {fileID: 2800000, guid: a88fde542efcb324b83a63c59d48d97f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: oqituvchi_Bottom_Gloss
+    second: {fileID: 2800000, guid: 409961ff14a253b42bd2806af087904d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: oqituvchi_Bottom_Normal
+    second: {fileID: 2800000, guid: cfa68dfcee75c0c4c9396798200baf2c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: oqituvchi_Bottom_Opacity
+    second: {fileID: 2800000, guid: 2d6f6cb276dc66c4ab8f402fd903468c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: oqituvchi_Bottom_Specular
+    second: {fileID: 2800000, guid: be15c53edd08dde4ca4455b82b107203, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: oqituvchi_Eyewear_Diffuse
+    second: {fileID: 2800000, guid: f059ae69397867d47ad0afd3f46e74de, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: oqituvchi_Eyewear_Gloss
+    second: {fileID: 2800000, guid: d77c9541192e5f14ca2b04e43c8376d5, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: oqituvchi_Eyewear_Normal
+    second: {fileID: 2800000, guid: 2e431c1b4307fdc439166c377f2022ff, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: oqituvchi_Eyewear_Opacity
+    second: {fileID: 2800000, guid: 69e8d411ac64c8f499713dd6d4a20416, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: oqituvchi_Eyewear_Specular
+    second: {fileID: 2800000, guid: eb5a8bd61f438e64f8fdf62da9e21de7, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: oqituvchi_Hair_Diffuse
+    second: {fileID: 2800000, guid: 7c1b548d4e645244f920c998b175d541, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: oqituvchi_Hair_Gloss
+    second: {fileID: 2800000, guid: 24423ee7a0595f74db4fbda8b6d41a6e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: oqituvchi_Hair_Normal
+    second: {fileID: 2800000, guid: 15f348cddbfa02049994ae8b9a0c3898, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: oqituvchi_Hair_Opacity
+    second: {fileID: 2800000, guid: c6d8039eb6a9ada47946cf3d3fd15fdc, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: oqituvchi_Hair_Specular
+    second: {fileID: 2800000, guid: 28a6c3d617925624ba69ceecf395da21, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: oqituvchi_Shoes_Diffuse
+    second: {fileID: 2800000, guid: a300e6ba0b614f54cb87d0b6be4ef230, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: oqituvchi_Shoes_Gloss
+    second: {fileID: 2800000, guid: c91d547f756faa34282627ab43d1f8a5, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: oqituvchi_Shoes_Normal
+    second: {fileID: 2800000, guid: e261e3864fd3a96448032d9374cec8b8, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: oqituvchi_Shoes_Opacity
+    second: {fileID: 2800000, guid: 184e5e365e58135498cae9a39477cfd7, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: oqituvchi_Shoes_Specular
+    second: {fileID: 2800000, guid: 3d6aa0eff651e5947a59413036a62e84, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: oqituvchi_Top_Diffuse
+    second: {fileID: 2800000, guid: 1f62700d5e31c5a4290a6aa19e078315, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: oqituvchi_Top_Gloss
+    second: {fileID: 2800000, guid: 5316e8e2267696e4db68f2faa30f52d6, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: oqituvchi_Top_Normal
+    second: {fileID: 2800000, guid: 309050d6e7067594db20a0cb1576f002, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: oqituvchi_Top_Opacity
+    second: {fileID: 2800000, guid: f8c0384c47003ac4c9ed0ef6c7f088dc, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: oqituvchi_Top_Specular
+    second: {fileID: 2800000, guid: ef81bf35acbaf46489680dcd5553fdfe, type: 3}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.1
+    meshCompression: 0
+    addColliders: 1
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 0.1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 3
+  humanoidOversampling: 1
+  avatarSetup: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
